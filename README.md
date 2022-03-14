@@ -1,6 +1,4 @@
-### Hi there 👋
-
-Call me Ten. 
+### Call me Ten 👋
 
 I write code among other things.
 
@@ -12,4 +10,3 @@ I write code among other things.
 <!-- - 📫 How to reach me: ... -->
 <!-- - 😄 Pronouns: p**** l***** -->
 <!-- - ⚡ Fun fact: ... -->
--->
