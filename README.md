@@ -1,4 +1,4 @@
-### Call me 🔟 👋
+### Call me 🔟
 
 I write code among other things.
 
