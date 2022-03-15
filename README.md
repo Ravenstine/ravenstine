@@ -1,8 +1,8 @@
-### Call me Ten 👋
+### Call me 🔟 👋
 
 I write code among other things.
 
-- 🔭 I’m currently working on a human smog test device.
+- 🔭 I’m currently working on a "human smog test" device.
 - 🌱 I’m currently learning C++.
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
